@@ -43,7 +43,7 @@ internal class Program
             }
         }
 
-        Console.WriteLine("Массив: ");
+        Console.WriteLine("\nМассив: ");
 
         for (int i = 0; i < rows; i++)
         {
